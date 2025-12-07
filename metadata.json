@@ -1,0 +1,8 @@
+{
+  "name": "Aira - Advanced AI Chat",
+  "description": "A sophisticated, ChatGPT-like conversational interface powered by the most advanced Gemini 3 Pro models.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
